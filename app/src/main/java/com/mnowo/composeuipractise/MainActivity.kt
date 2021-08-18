@@ -73,7 +73,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
 @Composable
 fun UserInfoCard() {
     Card(

@@ -12,11 +12,5 @@ val Typography = Typography(
         fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Thin,
         fontSize = 16.sp
-    ),
-    body2 = TextStyle(
-        fontFamily = FontFamily.SansSerif,
-        fontWeight = FontWeight.Bold,
-        fontSize = 30.sp,
-        color = onPrimaryColor
     )
 )
